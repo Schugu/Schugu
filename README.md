@@ -28,3 +28,6 @@ Me llamo Leandro Daniel Schugurensky, tengo 23 años, vivo en Argentina y estoy 
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&theme=tokyonight) 
+![Schugu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schugu&hide=contribs,prs&theme=tokyonight)
+
