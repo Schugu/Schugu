@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td width="55%">
-      <h2> 💻 &nbsp;Acerca de Mí </h2>
+      <h2 align=center> 💻 &nbsp;Acerca de Mí </h2>
       <br>
        <ul>
         <li>👤 &nbsp; Nombre: Leandro Daniel Schugurensky</li>
@@ -41,19 +41,19 @@ Here are some ideas to get you started:
     <td width="55%">
       <p align="center">
         <br>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Schugu&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Schugu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
       </p>
     </td>
     <td width="45%">
       <p align="center">
         <br>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&theme=light&layout=compact" alt="Lenguajes más usados"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&theme=dark&layout=compact" alt="Lenguajes más usados"/>
       </p>
     </td>
   </tr>
    
 <tr>
-   <td width="55%">
+   <td width="55%" valign="top">
       <h2> 🛠 &nbsp;Tecnologías </h2>
       <ul>
          <li>
