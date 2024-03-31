@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#  Hola, soy Schugu! 👋
+<h1 align=center>Hola, soy Schugu!👋</h1>
 
 Me llamo Leandro Daniel Schugurensky, tengo 23 años, vivo en Argentina y estoy estudiando de manera autodidacta para llegar a ser un programador Front-end. <br><br><br>
 
@@ -29,8 +29,9 @@ Me llamo Leandro Daniel Schugurensky, tengo 23 años, vivo en Argentina y estoy 
 <br>
 
 ### 💻 Profile Stats
+<div align="center">
 <img alt="Schugu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Schugu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Schugu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
