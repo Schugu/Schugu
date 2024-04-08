@@ -42,13 +42,13 @@ Here are some ideas to get you started:
     <td width="55%">
       <p align="center">
         <br>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Schugu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Schugu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
       </p>
     </td>
     <td width="45%">
       <p align="center">
         <br>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&theme=dracula&layout=compact" alt="Lenguajes más usados"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&theme=algolia&layout=compact" alt="Lenguajes más usados"/>
       </p>
     </td>
   </tr>
