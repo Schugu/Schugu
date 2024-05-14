@@ -64,10 +64,12 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+   <img src="https://img.shields.io/badge/Tailwind_CSS-4392DB?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
         </li>
         <li>
            <h3>Base de datos:</h3>
          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="mongodb">
         </li>
       </ul>
    </td>
