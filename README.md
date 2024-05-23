@@ -70,7 +70,7 @@ Here are some ideas to get you started:
         <li>
            <h3>Base de datos:</h3>
          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="mongodb">
+         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
         </li>
       </ul>
    </td>
