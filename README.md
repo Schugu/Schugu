@@ -29,6 +29,10 @@ Here are some ideas to get you started:
         <li>🎯 &nbsp; Objetivo: Actualmente, estoy persiguiendo mi pasión por la programación con el objetivo de convertirme en un programador Front-end.</li>
        </ul>
        <br>
+      <h2 align=center> 📖 &nbsp;Aprendiendo </h2>
+      <div align=center> 
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <div/>
     </td>
     <td width="45%">
      <p align="center">
@@ -60,6 +64,7 @@ Here are some ideas to get you started:
          <li>
            <h3>Desarrollo Front-end:</h3>
 
+   
    <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
    <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
