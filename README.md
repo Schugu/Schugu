@@ -31,7 +31,8 @@ Here are some ideas to get you started:
        <br>
       <h2 align=center> 📖 &nbsp;Aprendiendo </h2>
       <div align=center> 
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=5fa04e" alt="Node.js">
       <div/>
     </td>
     <td width="45%">
