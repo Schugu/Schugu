@@ -26,7 +26,6 @@ Here are some ideas to get you started:
         <li>🎂 &nbsp; Edad: 23 años</li>
         <li>🌍 &nbsp; País: Argentina</li>
         <li>📚 &nbsp; Educación: Estudiante autodidacta</li>
-        <li>🎯 &nbsp; Objetivo: Actualmente, estoy persiguiendo mi pasión por la programación con el objetivo de convertirme en un programador Front-end.</li>
        </ul>
        <br>
       <h2 align=center> 📖 &nbsp;Aprendiendo </h2>
