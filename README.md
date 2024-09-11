@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <br>
        <ul>
         <li>👤 &nbsp; Nombre: Leandro Daniel Schugurensky</li>
-        <li>👨‍💻 &nbsp; Programador 🎓 Trainee</li>
+        <li>👨‍💻 &nbsp; Programador Fullstack 🎓 Trainee</li>
         <li>🎂 &nbsp; Edad: 24 años</li>
         <li>🌍 &nbsp; País: Argentina</li>
         <li>📚 &nbsp; Educación: Estudiante autodidacta</li>
