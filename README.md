@@ -31,7 +31,7 @@ Here are some ideas to get you started:
       <h2 align=center> 📖 &nbsp;Aprendiendo </h2>
       <div align=center> 
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=5fa04e" alt="Node.js">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
       <div/>
     </td>
     <td width="45%">
@@ -68,18 +68,18 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
    <img src="https://img.shields.io/badge/Tailwind_CSS-4392DB?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs">
         </li>
          <li>
            <h3>Desarrollo Back-end:</h3>
              <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=5fa04e" alt="Node.js">
-             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+             <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=000000" alt="Express">
+             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
         </li>
         <li>
            <h3>Base de datos:</h3>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
         </li>
         <li>
           <h3>Control de versiones:</h3>
