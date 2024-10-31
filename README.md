@@ -21,11 +21,11 @@ Here are some ideas to get you started:
       <h2 align=center> 💻 &nbsp;Acerca de Mí </h2>
       <br>
        <ul>
-        <li>👤 &nbsp; Nombre: Leandro Daniel Schugurensky</li>
+        <li>👤 &nbsp; Leandro Daniel Schugurensky</li>
         <li>👨‍💻 &nbsp; Programador Fullstack 🎓 Trainee</li>
         <li>🎂 &nbsp; Edad: 24 años</li>
         <li>🌍 &nbsp; País: Argentina</li>
-        <li>📚 &nbsp; Educación: Estudiante autodidacta</li>
+        <li>📚 &nbsp; Estudiante autodidacta</li>
        </ul>
        <br>
       <h2 align=center> 📖 &nbsp;Aprendiendo </h2>
