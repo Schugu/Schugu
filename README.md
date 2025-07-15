@@ -11,11 +11,6 @@
         <li>🌍 &nbsp; País: Argentina</li>
         <li>📚 &nbsp; Estudiante de Sistemas - UNNE</li>
       </ul>
-      <h2 align=center> 📖 &nbsp;Actualmente Aprendiendo </h2>
-      <div align=center>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-      </div>
       <h2 align=center> 🌐 &nbsp;Redes </h2>
       <div align="center">
         <a href="https://www.linkedin.com/in/leandro-daniel-schugurensky-b464402a5/" target="_blank" rel="noopener noreferrer">
