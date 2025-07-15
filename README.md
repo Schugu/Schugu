@@ -62,10 +62,8 @@
         <li>
           <h3>Base de datos:</h3>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
-          <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
-          <img src="https://img.shields.io/badge/Cloudinary-F7A503?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
         </li>
         <li>
           <h3>Control de versiones:</h3>
