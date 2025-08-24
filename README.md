@@ -69,7 +69,7 @@
     </td>
     <td width="50%">
       <p align="center">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Schugu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=schugu&show_icons=true&theme=algolia&include_all_commits=true&count_private=tru" alt="Estadísticas de GitHub"/>
       </p>
       <p align="center">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&theme=algolia&layout=compact" alt="Lenguajes más usados"/>
