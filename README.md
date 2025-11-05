@@ -28,9 +28,9 @@
         <a href="https://x.com/leansugus" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="X (Twitter)">
         </a>
-        <a href="https://discord.com/users/Schugu" target="_blank" rel="noopener noreferrer">
+ <!--       <a href="https://discord.com/users/Schugu" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-        </a>
+        </a> -->
       </div>
     </td>
     <td width="50%" align="center">
