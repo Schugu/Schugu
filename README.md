@@ -34,6 +34,13 @@
           <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         </a>
       </div>
+       <h2 align="center">⏱️ Horas programando</h2>
+       <p align="center"><i>Desde Jun 6, 2025 (instalación de WakaTime)</i></p>
+       <div align="center">
+         <a href="https://wakatime.com/@839c2278-9d46-4c94-b3a0-16535416a3bd">
+           <img src="https://wakatime.com/badge/user/839c2278-9d46-4c94-b3a0-16535416a3bd.svg?style=for-the-badge&color=F6F8FA&label_color=4301A3" alt="Total time coded since Jun 6 2025" />
+         </a>
+      </div>
     </td>
     <td width="50%" align="center">
       <p>
