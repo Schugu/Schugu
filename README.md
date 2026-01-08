@@ -77,14 +77,16 @@
       </ul>
     </td>
     <td width="50%">
-<p align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schugu&theme=algolia" alt="Estadísticas de GitHub"/>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schugu&theme=algolia" alt="Lenguajes por repositorio"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schugu&theme=algolia&utcOffset=-3" alt="Horario productivo"/>
-</p>
+    <p align="center">
+      <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schugu&theme=algolia" alt="Estadísticas de GitHub"/>
+      <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schugu&theme=algolia" alt="Lenguajes por repositorio"/>
+    </p>
+    <p align="center">
+      <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schugu&theme=algolia&utcOffset=-3" alt="Horario productivo"/>
+    </p>
+    <p align="center">
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schugu&theme=algolia" alt="Detalles del perfil"/>
+    </p>
     </td>
   </tr>
 </table>
