@@ -51,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h2> 🛠 &nbsp;Tecnologías y Herramientas </h2>
       <ul>
         <li>
@@ -77,12 +77,14 @@
       </ul>
     </td>
     <td width="50%">
-      <p align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Schugu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github&disable_animations=true" alt="Estadísticas de GitHub"/>
-      </p>
-      <p align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schugu&theme=algolia&layout=compact&disable_animations=true" alt="Lenguajes más usados"/>
-      </p>
+<p align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schugu&theme=algolia" alt="Estadísticas de GitHub"/>
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schugu&theme=algolia" alt="Lenguajes por repositorio"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schugu&theme=algolia&utcOffset=-3" alt="Horario productivo"/>
+</p>
     </td>
   </tr>
 </table>
