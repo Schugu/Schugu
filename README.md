@@ -6,7 +6,7 @@
       <h2 align=center> 💻 &nbsp;Acerca de Mí </h2>
       <ul>
         <li>👤 &nbsp; Leandro Daniel Schugurensky</li>
-        <li>👨‍💻 &nbsp; Programador Back-end 🎓 Trainee</li>
+        <li>👨‍💻 &nbsp; Junior Backend Developer</li>
         <li>🎂 &nbsp; Edad: 25 años</li>
         <li>🌍 &nbsp; País: Argentina</li>
         <li>📚 &nbsp; Estudiante de Sistemas - UNNE</li>
