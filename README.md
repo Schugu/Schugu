@@ -16,7 +16,7 @@
         <a href="https://www.linkedin.com/in/leandro-daniel-schugurensky-b464402a5/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-         <a href="https://schugu-portfolio.netlify.app/home" target="_blank">
+         <a href="https://portfolio-schugu.vercel.app/home" target="_blank">
          <img src="https://img.shields.io/badge/Portfolio-ffcc50?style=for-the-badge&logo=gitlab&logoColor=black" alt="Portfolio">
         </a>
         <a href="mailto:leo.schugu@gmail.com" target="_blank" rel="noopener noreferrer">
