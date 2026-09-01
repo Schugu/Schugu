@@ -7,7 +7,7 @@
       <ul>
         <li>👤 &nbsp; Leandro Daniel Schugurensky</li>
         <li>👨‍💻 &nbsp; Junior Backend Developer</li>
-        <li>🎂 &nbsp; Edad: 25 años</li>
+        <li>🎂 &nbsp; Edad: 26 años</li>
         <li>🌍 &nbsp; País: Argentina</li>
         <li>📚 &nbsp; Estudiante de Sistemas - UNNE</li>
       </ul>
